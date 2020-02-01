@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  background-color: rgba(37, 35, 35, 0.801);
+  padding: 20px 0;
+}
+
+.header .title {
+  color: #f5f5f5;
+  margin-left: 10px;
+}
+
+.header .buttons {
+  display: flex;
+  margin-left: 15px;
+  align-items: center;
+  padding: 0 25px;
+}
+
+.buttons h2 {
+  margin-right: 15px;
+  color: #444;
+}
+
+.buttons .link {
+  color: rgb(189, 184, 184);
+}
+.buttons .disable {
+  color: rgb(141, 134, 134);
+}
